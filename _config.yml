@@ -1,21 +1,21 @@
 # Site settings
-title: Project Pages
-description: "An Integrated Scientific Blogging Template"
-url: "https://projectpages.github.io"
+title: Project Pages Test
+description: "This is a website for our group."
+url: "https://lihc9226.github.io/project-pages"
 
 
 
 
 # Secondary Parameters
 baseurl: "/project-pages"
-header-img: img/home-bg.jpg
+header-img: img/home-bg-1.jpg
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
+github_username:  lihc9226
+project_repository: lilhc9226
+disqus_shortname: lihc9226
 g-analytics: UA-75881392-1
 altmetric: true
 
@@ -36,7 +36,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/home-bg.jpg"
+      header-img: "img/home-bg-1.jpg"
 
 # Prose Settings
 prose:
