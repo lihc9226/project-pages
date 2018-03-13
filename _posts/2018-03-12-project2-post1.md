@@ -7,7 +7,7 @@ subtitle:   Showcasing Jupyter Notebook Translator Layout
 category:  project2
 
 notebookfilename: intro
-visualworkflow: true
+visualworkflow: false
 ---
 
 This post is to test project 2.
