@@ -1,7 +1,7 @@
 # Site settings
 title: Project Pages Test
 description: "This is a website for our group."
-url: "https://lihc9226.github.io/project-pages"
+url: "https://lihc9226.github.io"
 
 
 
@@ -14,8 +14,8 @@ logo: /project-pages/img/微信图片_20180313151726.jpg
 
 # Tertiary Parameters
 github_username:  lihc9226
-project_repository: lilhc9226
-disqus_shortname: lihc9226
+project_repository: project-pages
+disqus_shortname: project-pages
 g-analytics: UA-75881392-1
 altmetric: true
 
