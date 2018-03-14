@@ -5,5 +5,9 @@ description: "Why use Project Pages?"
 header-img: "img/home-bg-1.jpg"
 ---
 
-Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
+Hey guys, We are very hapy you have interests on our lab. If you have any problems, please feel free to contact us.
+
+Arther: [Email]xinyu.li@outlook.com
+
+Yue:    [Email]yuegoio@yahoo.com
 	
