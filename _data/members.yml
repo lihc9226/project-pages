@@ -8,13 +8,13 @@
   url: http://ahmetcecen.github.io/
   visible: true
    
-- name: David Brough
-  role: Data Scientist / Materials Informatics
-  img: https://avatars0.githubusercontent.com/u/4368625?v=3&s=460
-  github: davidbrough1
-  bio: David is a PhD student in the School of Computational Science and Engineering at Georgia Institute of Technology. David earned a Master’s degree in experimental condensed matter physics at Brigham Young University where he fabricated and characterized thin-films and carbon nanotubes used in nanostructured high capacity battery electrodes and in X-ray windows. As an undergraduate, David studied theoretical physics and researched the evolution of chaotic systems using neural networks at Westminster College. He is a trainee in the NSF IGERT FLAMEL program, and one of the lead developers on PyMKS materials informatics toolkit.
-  url: http://davidbrough.net 
-  visible: false
+- name: Xinyu Li
+  role: NLP Scientist / PHD
+  img: https://vignette.wikia.nocookie.net/p__/images/1/10/225px-Dexter2.png/revision/latest?cb=20120711215235&path-prefix=protagonist
+  github: Arthurlxy
+  bio: Xinyu is a Ph.D. candidate at Department of Electrical and Computer Engineering in Rutgers University.He is working in the multimedia lab with Professor Ivan Marsic.His research includes deep learning based activity recognition, sensor network and process mining
+  url: https://sites.google.com/view/lixinyuarthur/home?authuser=0
+  visible: true
   
 - name: Surya R. Kalidindi
   role: Materials Informatics
