@@ -4,7 +4,7 @@ title:      article for project 2
 author:    hc
 tags: 		jupyter workflows template
 subtitle:   Showcasing Jupyter Notebook Translator Layout
-category:  project2
+category:  group2
 
 visualworkflow: false
 ---
