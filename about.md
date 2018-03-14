@@ -1,13 +1,12 @@
 ---
 layout: page
 title: "About"
-description: "Why use Project Pages?"
+description: "Who we are?"
 header-img: "img/home-bg-1.jpg"
 ---
+Hey guys, We are very happy that you have interests in our lab!
 
-Hey guys, We are very hapy you have interests on our lab. If you have any problems, please feel free to contact us.
+The Multimedia Processing Lab is located in CORE building of busch campus of Rutgers University. The academic professor of this lab is <b><a href="http://www.ece.rutgers.edu/~marsic/">Professor Ivan Marsic</a></b>.
 
-Arther: [Email]xinyu.li@outlook.com
 
-Yue:    [Email]yuegoio@yahoo.com
 	
