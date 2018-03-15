@@ -27,6 +27,12 @@ header-img: "img/home-bg-1.jpg"
 	{{ member.bio }}
 	{% endif %}
 	
+	</br></br>
+
+	{% if member.email %} 
+	{{ member.email }}
+	{% endif %}
+	
 	<hr>
 
 {% endif %}{% endfor %}
