@@ -6,7 +6,7 @@ tags: 		jupyter workflows template
 subtitle:   Showcasing Jupyter Notebook Translator Layout
 category:  group2
 
-visualworkflow: false
+visualworkflow: true
 ---
 
 This post is to test project 2.
