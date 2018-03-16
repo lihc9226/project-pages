@@ -1,11 +1,10 @@
 ---
 layout:     post
-title:      New Paper!
+title:      New Graduation!
 author:     Weizhong Kong
-tags: 		paper visual
-subtitle:   Lab's new paper was accepted
+tags: 		thesis AMAZON Xinyu-Li
+subtitle:  
 category:  project1
 ---
-Congratulation to our lab! Our new paper
-<b><a href="http://poloclub.gatech.edu/idea2016/papers/p130-yang.pdf">"VIT-PLA: Visual Interactive Tool for Process Log Analysis"</a></b>
-was just accepted!
+Congratulation to Xinyu's graduation! He has defended his PhD thesis and will be working with Amazon AI. 
+
