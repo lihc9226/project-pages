@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      New Paper!
+author:     Weizhong Kong
+tags: 		paper sensor recognition Xinyu-Li
+subtitle:   Xinyu's new paper was accepted
+category:  project1
+---
+Congratulation to Xinyu! His paper
+<b><a href="http://www.google.com/url?q=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-319-33618-3_7&sa=D&sntz=1&usg=AFQjCNFVFvJVZoHqmnqEVnt_d8DRjzasDA">"Privacy preserving dynamic room layout mapping"</a></b>
+was accepted !
