@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      New Paper!
+author:     Weizhong Kong
+tags: 		paper medical recognition IEEE RFID Xinyu-Li
+subtitle:   Xinyu's new paper was accepted
+category:  project1
+---
+Congratulation to Xinyu! His paper
+<b><a href="http://www.google.com/url?q=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F7488002%2F&sa=D&sntz=1&usg=AFQjCNE8vLI6Rzn90a9XXULMFVJK_i1v2Q">"Activity Recognition for Medical Teamwork Based on Passive RFID"</a></b>
+was just nominated for best paper award in IEEE RFID 2016 conference !
+
+<br><br>
+To see more details, please see this
+<b><a href="http://www.google.com/url?q=http%3A%2F%2F2016.ieee-rfid.org%2Fbest-paper-award-nominees%2F&sa=D&sntz=1&usg=AFQjCNGNkvHPwD5sF8cTWczBdyx2bAOS2w">"link"</a></b>!
