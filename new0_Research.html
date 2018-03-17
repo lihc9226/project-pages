@@ -138,12 +138,41 @@ layer. The model was trained on 20 trauma resuscitation cases (˃13 hours), and 
 
 
 
+<br><br><strong>Privacy Preserving Dynamic Room Layout Mapping</strong>
+<br><br>
+We present a novel and efficient room layout mapping strategy that does not reveal people’s identity. The system uses only a 
+Kinect depth sensor instead of RGB cameras or a high-resolution depth sensor. The users’ facial details will neither be 
+captured nor recognized by the system. The system recognizes and localizes 3D objects in an indoor environment, that includes 
+the furniture and equipment, and generates a 2D map of room layout. We evaluated this system in two challenging real-world 
+application scenarios: a laboratory room with four people present and a trauma room with up to 10 people during actual trauma 
+resuscitations. 
+<b><a href="http://www.google.com/url?q=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-319-33618-3_7&sa=D&sntz=1&usg=AFQjCNFVFvJVZoHqmnqEVnt_d8DRjzasDA">Paper</a></b>.
 
 
+<br><br><strong>3D Activity Tracking</strong>
+<br><br>
+We present a deep learning framework for fast 3D activity localization and tracking in a dynamic and crowded environment. We 
+focused on recognizing activities in a real setting, rather than static images of activities staged in a controlled environment.
+Our training approach reverses the traditional activity localization method, which first estimates the activity’s possible 
+location and then predicts its occurrence. Instead, we first trained a deep convolutional neural network for activity 
+recognition using depth video and RFID data as input, and then used the network’s activation maps to locate the recognized 
+activity in 3D space. We evaluated the system with a medical activity dataset, achieving accurate activity localization with 
+decimeter resolution. 
+<br><br>
 
 
-
-
+<br><br><strong>Online People Tracking and Identification with RFID and Kinect</strong>
+<br><br>
+We introduce a novel, accurate and practical system for real-time people tracking and identification. We used a Kinect V2 
+sensor for tracking that generates a body skeleton for up to six people in the view. We perform identification using both 
+Kinect and passive RFID, by first measuring the velocity vector of person's skeleton and of their RFID tag using the position
+of the RFID reader antennas as reference points and then finding the best match between skeletons and tags. We introduce a 
+method for synchronizing Kinect data, which is captured regularly, with irregular or missing RFID data readouts. Our 
+experiments show centimeter-level people tracking resolution with 80% average identification accuracy for up to six people in 
+indoor environments, which meets the needs of many applications. Our system can preserve user privacy and work with different 
+lighting.   
+<b><a href="https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1702.03824&sa=D&sntz=1&usg=AFQjCNGowK6kzPQnqALreWrikUf2lUgUhg">Preprint Paper</a></b>.
+<br><br>
 
 
 
