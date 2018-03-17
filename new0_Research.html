@@ -89,11 +89,66 @@ with multi-sensory data using a single model, which is scalable, simple to train
 <html>
  <head></head>
  <body>
-  
  <br><br>
  <p><iframe width="50%" height="500px" src="https://www.youtube.com/embed/p3MzFN3i_eU" name="contentIFrame" frameborder="0" scrolling="yes" style="float: left;"></iframe>
-
  <iframe width="50%" height="500px" src="https://www.youtube.com/embed/Pa1Lbbx66Eg" name="contentIFrame" id="contentIFrame" frameborder="0" scrolling="yes" style="float: right;"></iframe></p>
- 
  </body>
 </html>
+
+<br><br><strong>Process Progress Detection</strong>
+<br><br>
+Process modeling and understanding is fundamental for advanced human-computer interfaces and automation systems. Recent 
+research focused on activity recognition, but little work has focused on process progress detection with sensor data. We 
+introduce a real-time, sensor-based system for modeling, recognizing and estimating the completeness of a process. We 
+implemented a multimodal CNN-LSTM structure to extract the spatio-temporal features from different sensory datatypes. We 
+used a novel deep regression structure for overall completeness estimation. By combining process completeness estimation with 
+a Gaussian mixture model, our system can predict the process phase using the estimated completeness. We also introduced the 
+rectified hyperbolic tangent (rtanh) activation function and conditional loss to help the training process. Using the 
+completeness estimation result and performance speed calculations, we also implemented a real-time time remaining estimator. 
+We tested the proposed system using data obtained from a medical process (trauma resuscitation) and sports event 
+(swim competition). Our system outperformed previous implementations for phase prediction during trauma resuscitation and 
+achieved over 85% of process phase detection accuracy with less than 10% error in each dataset.
+<b><a href="https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1702.08623&sa=D&sntz=1&usg=AFQjCNHwmy58FzIPkXgKlU3UyJTCLbzzkw">Preprint Paper</a></b>.
+
+
+
+<br><br><strong>Online Process Phase Detection Using Multimodal Deep Learning</strong>
+<br><br>
+We present a multimodal deep-learning structure that automatically predicts phases of the trauma resuscitation process in 
+real-time. The system first pre-processes the audio and video streams captured by a Kinect’s built-in microphone array and 
+depth sensor. A multimodal deep learning structure then extracts video and audio features, which are later combined through 
+a “slow fusion” model. The final decision is then made from the combined features through a modified softmax classification 
+layer. The model was trained on 20 trauma resuscitation cases (˃13 hours), and was tested on 5 other cases.  
+<b><a href="http://www.google.com/url?q=http%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F7777912%2F&sa=D&sntz=1&usg=AFQjCNGUZuLX1D5G63TTLiwFWsW3xfqAHQ">Paper</a></b>.
+<br><br>
+
+
+<br><br><font size="10px" color="red">People Tracking and Activity Localization</font><br><br>
+
+<html>
+ <head></head>
+ <body>
+   <p class="col-md-6contact-left"> 
+   <p style="text-align:center">
+    <iframe width="300" height="200" src="https://www.youtube.com/embed/I459Lse9BWY" frameborder="0" align="left" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+   </p> 
+   </p>
+ </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
