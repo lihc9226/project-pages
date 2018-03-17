@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "About Us"
 description: "Who we are?"
 header-img: "img/home-bg-1.jpg"
 ---
